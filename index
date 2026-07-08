@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>기어와 이상 현상 보관소</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#111827;
+    color:white;
+    font-family:Pretendard, Arial, sans-serif;
+    padding:40px 20px;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+}
+
+h1{
+    font-size:42px;
+    margin-bottom:10px;
+}
+
+.sub{
+    color:#bfbfbf;
+    margin-bottom:35px;
+}
+
+.card{
+    background:#1f2937;
+    border-radius:15px;
+    padding:20px;
+    margin-bottom:20px;
+}
+
+.card h2{
+    margin-bottom:10px;
+}
+
+.card p{
+    color:#d0d0d0;
+    margin-bottom:15px;
+}
+
+.button{
+    display:inline-block;
+    background:#4f8cff;
+    color:white;
+    text-decoration:none;
+    padding:10px 18px;
+    border-radius:8px;
+}
+
+.button:hover{
+    background:#3b74db;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>기어와 이상 현상 보관소</h1>
+<p class="sub">이상 현상 보관소 작품 모음.</p>
+
+<div class="card">
+<h2>「어떤 불행에 이유는 있는가」</h2>
+<p>이상 현상 보관소 1화</p>
+<a class="button" href="https://share.novela.so/file/699577cf89b43bc912e03eec" target="_blank">읽기</a>
+</div>
+
+<div class="card">
+<h2>「불면」</h2>
+<p>이상 현상 보관소 2화</p>
+<a class="button" href="https://share.novela.so/file/69cb7adf3802f1f220c0306b" target="_blank">읽기</a>
+</div>
+
+<div class="card">
+<h2>「두 개의 조각」</h2>
+<p>이상 현상 보관소 3화</p>
+<a class="button" href="https://share.novela.so/file/6a0eb4288df207472f4f066e" target="_blank">읽기</a>
+</div>
+
+<div class="card">
+<h2>4화</h2>
+<p>작성 중</p>
+<a class="button" href="https://share.novela.so/file/6a4defc9b003469b2e2f7f06" target="_blank">읽기</a>
+</div>
+
+<div class="card">
+<h2>5화</h2>
+<p>작성 중</p>
+<a class="button" href="https://share.novela.so/file/6a4defc9b003469b2e2f7f06" target="_blank">읽기</a>
+</div>
+
+<div class="card">
+<h2>6화</h2>
+<p>작성 중 (외전 또는 최종화)</p>
+<a class="button" href="https://share.novela.so/file/6a4defc9b003469b2e2f7f06" target="_blank">읽기</a>
+</div>
+
+</div>
+
+</body>
+</html>
